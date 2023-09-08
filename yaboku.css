@@ -1,0 +1,106 @@
+CSS
+.wrapper{
+	padding-left: 13%;
+	padding-right: 13%;
+}
+html, body{
+font-family: Escopedia, sans-serif;
+margin: 0;
+padding-left: 2%;
+padding-right: 2%;
+}
+.body{
+	background-color: #251934;
+}
+
+header{
+background-color: #251934;
+padding: 40px;
+text-align: center;
+}
+h1{
+font-size: 90px;
+color: #B8B4B3;
+}
+header img{
+border-radius: 10px;
+width: 400px;
+border: 15px inset #9F0C0A;
+}
+.content{
+max-width: 800px;
+margin: 0 auto;
+padding: 0 20px;
+}
+
+p{
+font-size: 16px;
+color: #D4E3DC;
+/*font-style: italic;*/
+font-size: 20px;
+}
+ul{
+list-style: none;
+padding: 0;
+margin: 0;
+}
+a{
+color: red;
+text-decora3on: none;
+}
+
+footer{
+margin-top: 20px;
+padding: 40px 20px;
+background-color: black;
+color: #D4E3DC;
+}
+footer ul{
+text-align: center;
+}
+footer ul li{
+display: inline-block;
+margin: 0 5px;
+}
+
+h2{
+	text-align: center;
+	color: #7A1C04;
+	font: Hittedal Sans, sans-serif;
+	font-size: 50px;
+}
+p{
+	text-align: center;
+}
+li{
+	text-align: left;
+	padding-top: 7px;
+
+
+}
+.big-image{
+	padding-left: 26%;
+	width: 400px;
+}
+.img{
+	width: 300px;
+	padding-left: 31%;
+}
+.download{
+	width: 400px;
+	padding-left: 25%;
+}
+
+.friends{
+	font-size: 30px;
+	color: #D4E3DC;
+}
+.character{
+	font-size: 30px;
+	color: #D4E3DC;
+	padding-top: 30px;
+}
+
+.yuk{
+	padding-left: 35%;
+}
