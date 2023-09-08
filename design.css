@@ -1,0 +1,130 @@
+html, body{
+font-family: Arial, sans-serif;
+margin: 0;
+}
+
+header{
+background: linear-gradient(to bottom, #fcf302 0%, #040406 110%);
+padding: 40px;
+text-align: center;
+}
+
+.logocon{
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	height: 200px;
+/*  	background-color: #02130A;*/
+
+}
+
+.logo{
+	box-shadow: 0 0 40px 20px rgba(0, 0, 0, 0.5);
+	display: flex;
+	margin-top: -6vh;
+	align-content: center;
+    width: 40%;
+}
+
+h1{
+	text-align: center;
+	font-size: 80px;
+	color: #f6e837;
+	font-family: 'Bromther', sans-serif;
+	letter-spacing:	5px;
+}
+
+h2{
+	text-align: center;
+	padding-top: 5%;
+	color: #DCCD0E;
+	font-family: 'Tough Love', sans-serif;                          
+	letter-spacing:	1px;
+}
+
+.frens{
+	font-size: 40px;
+	letter-spacing: 3px;
+	color: #FFFA85;
+	padding-top: 10px;
+}
+
+header img{
+border-radius: 10px;
+width: 260px;
+border: 3px solid #0B3494;
+
+}
+.content{
+margin: 0 auto;
+padding: 0 20px;
+background: linear-gradient(to top,#A0CC11 30%,#00641E ,#040406);
+padding-bottom: 80px;
+/*background: linear-gradient(to top, #a7a513 1%, #040406 105%);*/
+}
+img.big-image{
+	text-align: center;
+	display: flex;
+	max-width: 55%;
+	margin-left: 23%;
+	padding-bottom: 30px;
+}
+
+.abilitycon{
+	text-align: center;
+	list-style: decimal inside;
+}
+
+.ability{
+	padding-bottom: 20px;
+	padding-top: 20px;
+	max-width: 40%;
+}
+
+li{
+
+	color: whitesmoke;
+	font-family: 'Tough Love', sans-serif;
+}
+
+.frencyb{
+	text-align: center;
+}
+
+.footerli{
+	text-align: center;
+}
+
+
+p{
+	text-align: center;
+	color: whitesmoke;
+	font-family: 'Tough Love', sans-serif;
+}
+
+p.cap3on{
+font-size: 16px;
+color: lightgrey;
+font-style: italic;
+}
+ul{
+list-style: none;
+padding: 0;
+margin: 0;
+}
+a{
+color: red;
+text-decora3on: none;
+}
+
+footer{
+padding: 40px 20px;
+background-color: #9ABB2F;
+}
+footer ul{
+text-align: center;
+}
+footer ul li{
+display: inline-block;
+margin: 0 5px;
+}
